@@ -269,7 +269,7 @@ Earlier weekly summaries (Weeks 1–7), including objectives, challenges, and re
 
 ---
 
-🧭 *This changelog is updated weekly as I progress through my 8-week DevOps practice plan.*
+🧭 *This changelog is updated weekly as I progress through my **phase-based, long-term upskilling roadmap** *
 
 
 
