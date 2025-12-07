@@ -1,10 +1,14 @@
-# 🗓️ Weekly Progress Summaries (Historical)
+# 🗓️ Weekly and daily Progress Summaries (Historical)
 
 This document contains detailed weekly summaries from the early stages of the DevOps upskilling journey.
 These weeks predate the transition to a phase-based roadmap and are preserved for historical and reflective purposes.
 
-
 ---
+
+## 📜 Historical Progress Log
+
+This section contains a chronological record of earlier weekly and daily updates, preserved for documentation and reflection purposes.
+
 ### Week 1 — Linux & Environment Setup (Foundations)
 
 Focus:
@@ -123,10 +127,6 @@ Rebuild momentum after a slow start to the week by performing small, focused han
 > Week 7 included limited time on several days due to job applications and family responsibilities, but still resulted in meaningful progress in Minikube and Terraform hands-on practice.
 
 ---
-
-## 📜 Historical Progress Log
-
-This section contains a chronological record of earlier daily and weekly updates, preserved for documentation and reflection purposes.
 
 | **Date** | **Update** |
 |-----------|------------|
