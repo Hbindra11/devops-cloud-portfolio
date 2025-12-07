@@ -144,6 +144,22 @@ devops-labs/
 │   ├── terraform-projects/
 │   └── k8s-minikube-labs/
 │
+├── week08_terraform-advanced/       # Week 8 – Terraform State, Lifecycle, Graph & Advanced Commands
+│   ├── README.md
+│   ├── week08_log.md
+│   ├── terraform-notes/             # State, backend concepts, lifecycle rules, graph
+│   ├── hands-on-labs/               # KodeKloud state & lifecycle labs
+│   └── screenshots/                # Plans, state commands, graph visuals
+|
+├── week09_terraform-continued/      # Week 9 – Terraform Basics Completion & Consolidation
+│   ├── README.md
+│   ├── week09_log.md
+│   ├── hands-on-labs/               # Continued Terraform Basics labs
+│   └── notes/                       # Consolidated Terraform command & state notes
+|
+├── docs/                           # Documentation, historical summaries, and reference notes
+│   └── weekly-summaries.md         # Archived weekly progress summaries (Weeks 1–7)
+|
 ├── linux-commands.md
 ├── kubectl-commands.md             
 ├── terraform-commands.md            
@@ -174,6 +190,14 @@ The repository is being gradually structured as I progress through my **8-week D
 
 📘 *This table provides a quick snapshot of progress across all ongoing DevOps learning domains as part of my 8-Week DevOps Foundations Practice Plan.*
 
+---
+### 🔄 Recent Focus (Weeks 8–9)
+
+- Transitioned from a fixed 8-week upskilling plan to a **phase-based learning roadmap**.
+- Continued Terraform Basics learning (state, lifecycle rules, advanced commands).
+- Week 9 began with limited technical progress due to intensive job application and interview preparation.
+- Focus remains on steadily completing Terraform Basics while balancing real-world constraints.
+  
 ---
 
 # 🚀 Week 5 Recap – Kubernetes + IaC Foundations
