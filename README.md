@@ -104,60 +104,61 @@ This flexible model ensures consistent learning without pressure.
 ```
 devops-labs/
 │
-├── week01_lab-setup/                # Linux & AWS foundations
+├── week01_lab-setup/               # Linux & AWS foundations
 │   ├── README.md
 │   ├── week01_log.md
 │   ├── aws-lab-notes.md
 │   └── screenshots/
 │
-├── week02_aws-labs/                 # AWS Cloud Practitioner & labs
+├── week02_aws-labs/                # AWS Cloud Practitioner & labs
 │   ├── README.md
 │   ├── week02_log.md
 │   └── screenshots/
 │
-├── week03_docker/                   # Docker Deep Dive
+├── week03_docker/                  # Docker Deep Dive
 │   ├── README.md
 │   ├── week03_log.md
 │   ├── docker-lab-notes.md
 │   ├── docker-commands.md
 │   └── screenshots/
 │
-├── week04_kubernetes/               # Kubernetes Fundamentals
+├── week04_kubernetes/              # Kubernetes Fundamentals
 │   ├── README.md
 │   ├── week04_log.md
 │   ├── k8s-lab-notes.md
 │   └── screenshots/
 │
-├── week05_kubernetes-iac/           # Kubernetes & IaC Foundations
+├── week05_kubernetes-iac/          # Kubernetes & IaC Foundations
 │   ├── README.md                    
 │   ├── week05_log.md                
-│   └── screenshots/                 # Kubernetes/AWS/Terraform progress images
+│   └── screenshots/                # Kubernetes/AWS/Terraform progress images
 │
-├── week06_iac-k8s-handson/          # Week 6 – Terraform + Minikube Hands-On
-│   ├── README.md                    # Week 6 progress, plan + reflection
-│   ├── week06_log.md                # Daily log
-│   └── screenshots/                 # AWS/Terraform progress images
+├── week06_iac-k8s-handson/         # Week 6 – Terraform + Minikube Hands-On
+│   ├── README.md                   # Week 6 progress, plan + reflection
+│   ├── week06_log.md               # Daily log
+│   └── screenshots/                # AWS/Terraform progress images
 │
-├── week07_iac-advanced/             # Terraform + Minikube hands-on 
+├── week07_iac-advanced/            # Terraform + Minikube hands-on 
 │   ├── README.md
 │   ├── week07_log.md
 │   ├── terraform-projects/
 │   └── k8s-minikube-labs/
 │
-├── week08_terraform-advanced/       # Week 8 – Terraform State, Lifecycle, Graph & Advanced Commands
+├── week08_terraform-advanced/      # Week 8 – Terraform State, Lifecycle, Graph & Advanced Commands
 │   ├── README.md
 │   ├── week08_log.md
-│   ├── terraform-notes/             # State, backend concepts, lifecycle rules, graph
-│   ├── hands-on-labs/               # KodeKloud state & lifecycle labs
+│   ├── terraform-notes/            # State, backend concepts, lifecycle rules, graph
+│   ├── hands-on-labs/              # KodeKloud state & lifecycle labs
 │   └── screenshots/                # Plans, state commands, graph visuals
 |
-├── week09_terraform-continued/      # Week 9 – Terraform Basics Completion & Consolidation
+├── week09_terraform-continued/     # Week 9 – Terraform Basics Completion & Consolidation
 │   ├── README.md
 │   ├── week09_log.md
-│   ├── hands-on-labs/               # Continued Terraform Basics labs
-│   └── notes/                       # Consolidated Terraform command & state notes
+│   ├── hands-on-labs/              # Continued Terraform Basics labs
+│   └── notes/                      # Consolidated Terraform command & state notes
 |
 ├── docs/                           # Documentation, historical summaries, and reference notes
+|   ├── phase-roadmap.md            # phase-based, long-term roadmap for document planning + orientation                          
 │   └── weekly-summaries.md         # Archived weekly progress summaries (Weeks 1–7)
 |
 ├── linux-commands.md
@@ -168,7 +169,6 @@ devops-labs/
     └── ci.yml                       # GitHub Actions – CI setup
 
 ```
-
 The repository is being gradually structured as I progress through a **phase-based, ongoing DevOps upskilling roadmap**, covering key domains such as CI/CD, containerization, cloud infrastructure, automation, and infrastructure as code.
 
 ---
@@ -189,6 +189,7 @@ The repository is being gradually structured as I progress through a **phase-bas
 📘 This table provides a high-level snapshot of progress across ongoing DevOps learning domains as part of a **phase-based, long-term upskilling roadmap**.
 
 ---
+
 ### 🔄 Recent Focus (Weeks 8–9)
 
 - Transitioned from a fixed 8-week upskilling plan to a **phase-based learning roadmap**.
@@ -197,6 +198,7 @@ The repository is being gradually structured as I progress through a **phase-bas
 - Focus remains on steadily completing Terraform Basics while balancing real-world constraints.
   
 ---
+
 ## 🔗 Links to Detailed Logs & Documentation
 
 This repository uses a layered documentation approach to keep the main README concise while preserving detailed learning history and reflections.
@@ -206,7 +208,8 @@ This repository uses a layered documentation approach to keep the main README co
 
 - 🗂️ **Weekly & Historical Summaries**  
   - Earlier weekly summaries (Weeks 1–7), including objectives, challenges, and reflections, have been archived to keep this README concise.
-    👉 See detailed historical summaries in: `/docs/weekly-summaries.md`
+    👉 See detailed historical summaries in:
+    - `/docs/weekly-summaries.md`
 
 - 🧭 **Phase-Based Roadmap**  
   - The long-term, phase-based DevOps upskilling structure and learning objectives are documented in:  
