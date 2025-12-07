@@ -197,13 +197,24 @@ The repository is being gradually structured as I progress through a **phase-bas
 - Focus remains on steadily completing Terraform Basics while balancing real-world constraints.
   
 ---
-## 🗓️ Weekly Progress Summaries (Archived)
+## 🔗 Links to Detailed Logs & Documentation
 
-Earlier weekly summaries (Weeks 1–7), including objectives, challenges, and reflections, have been archived to keep this README concise.
+This repository uses a layered documentation approach to keep the main README concise while preserving detailed learning history and reflections.
 
-👉 See detailed historical summaries in:  
-`/docs/weekly-summaries.md`
+- 📅 **Daily & Weekly Logs**  
+  - Individual daily progress, challenges, and next steps are documented in `weekXX_log.md` files within each week’s folder.
 
----
+- 🗂️ **Weekly & Historical Summaries**  
+  - Earlier weekly summaries (Weeks 1–7), including objectives, challenges, and reflections, have been archived to keep this README concise.
+    👉 See detailed historical summaries in: `/docs/weekly-summaries.md`
+
+- 🧭 **Phase-Based Roadmap**  
+  - The long-term, phase-based DevOps upskilling structure and learning objectives are documented in:  
+    - `docs/phase-roadmap.md`
+
+- 📘 **Hands-On Notes & References**  
+  - Topic-specific notes and lab documentation are maintained alongside hands-on projects in their respective folders (e.g. Kubernetes, Terraform).
+
+This structure allows detailed progress tracking while keeping the repository easy to navigate for reviewers and recruiters.
 
 
