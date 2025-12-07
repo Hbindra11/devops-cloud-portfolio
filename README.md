@@ -21,6 +21,84 @@ Each week focuses on one or more practical skill areas supported by daily logs a
 
 ---
 
+# 🚀 DevOps Upskilling Roadmap (Flexible & Ongoing)
+
+This program is no longer restricted to an 8-week timeline.  
+Instead, it follows a **phase-based learning approach**, allowing progress at a natural pace while balancing job applications, family responsibilities, and day-to-day commitments.
+
+The roadmap focuses on long-term mastery through foundational learning, hands-on practice, and practical DevOps projects.
+
+---
+
+## 🧭 Phase Overview
+
+### **Phase 1 — Foundations (Linux, AWS, Docker, Kubernetes Theory)**  
+Status: **Completed**  
+- Linux basics, services, permissions, LVM  
+- Docker fundamentals and image building  
+- AWS Cloud Practitioner foundations  
+- Kubernetes fundamentals via KodeKloud  
+- Documentation of early progress and first CI setup
+
+---
+
+### **Phase 2 — Guided Hands-On Practice (Minikube + Terraform Basics)**  
+Status: **In Progress**  
+Focus:
+- Creating Kubernetes manifests using `--dry-run`  
+- Running Nginx workloads locally via Minikube  
+- Organizing K8s practice projects  
+- Terraform basics: providers, variables, outputs  
+- Understanding Terraform workflow and state  
+- Completing Terraform Basics course on KodeKloud
+
+---
+
+### **Phase 3 — Intermediate Terraform & Kubernetes Projects**  
+Upcoming:
+- Terraform state backends (S3 + DynamoDB)  
+- Terraform modules and reusable infrastructure  
+- AWS IaC (S3, EC2, IAM)  
+- Kubernetes: ConfigMaps, Secrets, Ingress, multi-tier deployments  
+- Helm chart basics (optional)
+
+---
+
+### **Phase 4 — CI/CD and Automation**  
+Upcoming:
+- GitHub Actions for automated testing & Docker builds  
+- Deploying to a K8s cluster from CI  
+- Terraform linting and validation workflows  
+- Jenkins introduction (optional)
+
+---
+
+### **Phase 5 — Portfolio Projects**  
+Upcoming:
+- A full DevOps pipeline project combining:  
+  - GitHub Actions  
+  - Docker  
+  - Terraform  
+  - Kubernetes  
+- Deploying a simple application end-to-end  
+- Documenting architecture, lessons, screenshots, and workflows  
+
+---
+
+## 🔄 Progress Tracking
+
+Progress will continue to be tracked weekly in each `weekXX_*/` folder,  
+but the timeframe is **open-ended** and can expand naturally:
+
+- Weekly logs (`weekXX_log.md`)  
+- Hands-on labs folders  
+- Notes folders (Terraform, Kubernetes, AWS, CI/CD)  
+- Screenshots  
+- Updated main progress table  
+
+This flexible model ensures consistent learning without pressure.
+
+---
 ## 📁 Repository Structure
 
 ```
