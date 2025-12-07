@@ -4,7 +4,12 @@ This document contains detailed weekly summaries from the early stages of the De
 These weeks predate the transition to a phase-based roadmap and are preserved for historical and reflective purposes.
 
 ---
+## 📜 Historical Progress Log
 
+This section contains a chronological record of earlier daily and weekly updates, preserved for documentation and reflection purposes.
+
+
+---
 # 🚀 Week 5 Recap – Kubernetes + IaC Foundations
 
 Week 5 focused on:
@@ -64,3 +69,4 @@ Rebuild momentum after a slow start to the week by performing small, focused han
 > Week 7 included limited time on several days due to job applications and family responsibilities, but still resulted in meaningful progress in Minikube and Terraform hands-on practice.
 
 ---
+
