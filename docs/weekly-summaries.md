@@ -69,8 +69,66 @@ This section contains a chronological record of earlier daily and weekly updates
 | **06 Oct 2025** | Set up `devops-labs` repository and `.github/workflows/` folder for initial CI/CD setup. Installed AWS Free Tier and registered on KodeKloud. Watched “Introduction to DevOps.” |
 
 ---
+### Week 1 — Linux & Environment Setup (Foundations)
 
-# 🚀 Week 5 Recap – Kubernetes + IaC Foundations
+Focus:
+- Set up the DevOps learning environment and repository structure.
+- Reviewed core Linux concepts relevant to DevOps.
+
+Key Activities:
+- Practiced Linux commands including navigation, file operations, user and permission management.
+- Created initial repository structure and documentation.
+- Began tracking progress using daily logs.
+
+Outcome:
+- Established a working learning environment and documentation workflow.
+
+---
+### Week 2 — AWS Fundamentals & Linux Reinforcement
+
+Focus:
+- AWS Cloud Practitioner Essentials.
+- Continued reinforcing Linux fundamentals.
+
+Key Activities:
+- Completed AWS Skill Builder modules covering core cloud concepts, compute, storage, and IAM basics.
+- Completed AWS EC2 and S3 introductory labs.
+- Documented AWS concepts and screenshots in the repository.
+
+Outcome:
+- Built foundational understanding of AWS cloud services and shared responsibility model.
+
+---
+### Week 3 — Docker Fundamentals
+
+Focus:
+- Containerization concepts and hands-on Docker practice.
+
+Key Activities:
+- Learned Docker fundamentals including images, containers, volumes, and networking.
+- Ran and inspected containers using Docker CLI.
+- Built Docker images and used Docker Compose for multi-container applications.
+- Containerized a small JavaScript project from earlier bootcamp experience.
+
+Outcome:
+- Gained confidence working with Docker and containerized workflows.
+
+---
+### Week 4 — Kubernetes Fundamentals (Theory)
+
+Focus:
+- Kubernetes architecture and core object types.
+
+Key Activities:
+- Completed KodeKloud “Kubernetes for Absolute Beginners” course modules.
+- Learned about Pods, ReplicaSets, Deployments, Services, and YAML structure.
+- Practiced Kubernetes concepts through labs (theory-focused).
+
+Outcome:
+- Established strong theoretical foundation in Kubernetes, preparing for hands-on practice with Minikube.
+
+---
+### Week 5 Recap – Kubernetes + IaC Foundations
 
 Week 5 focused on:
 
@@ -85,7 +143,7 @@ Week 5 focused on:
 
 ---
 
-# 🗓️ Week 6 – IaC Progress + AWS Practitioner Advancement
+### Week 6 – IaC Progress + AWS Practitioner Advancement
 
 **Adjusted Week 6 Objective:**  
 Strengthen Terraform fundamentals and continue AWS Cloud Practitioner Essentials while preparing for full Kubernetes + Terraform hands-on work in Week 7.
@@ -108,7 +166,7 @@ Strengthen Terraform fundamentals and continue AWS Cloud Practitioner Essentials
 > Note: Full Terraform + Minikube hands-on (Deployments, Services, YAML manifests, AWS IaC projects) has been moved to **Week 7**, as Week 6 focused on regaining momentum, completing AWS Module 11, and establishing a clean Terraform local setup.
 
 ---
-# 🗓️ Week 7 – Kubernetes & Terraform Hands-On Restart
+### Week 7 – Kubernetes & Terraform Hands-On Restart
 
 **Adjusted Week 7 Objective:**  
 Rebuild momentum after a slow start to the week by performing small, focused hands-on exercises with Minikube and Terraform. The goal was to reinforce practical skills in Kubernetes resource creation and Terraform configuration basics while balancing job applications and personal commitments.
