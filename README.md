@@ -169,7 +169,7 @@ devops-labs/
 
 ```
 
-The repository is being gradually structured as I progress through my **8-week DevOps Foundations Practice Plan**, covering key domains such as CI/CD, containerization, cloud infrastructure, and automation.
+The repository is being gradually structured as I progress through a **phase-based, ongoing DevOps upskilling roadmap**, covering key domains such as CI/CD, containerization, cloud infrastructure, automation, and infrastructure as code.
 
 ---
 
@@ -198,6 +198,14 @@ The repository is being gradually structured as I progress through my **8-week D
 - Week 9 began with limited technical progress due to intensive job application and interview preparation.
 - Focus remains on steadily completing Terraform Basics while balancing real-world constraints.
   
+---
+## 🗓️ Weekly Progress Summaries (Archived)
+
+Earlier weekly summaries (Weeks 1–7), including objectives, challenges, and reflections, have been archived to keep this README concise.
+
+👉 See detailed historical summaries in:  
+`/docs/weekly-summaries.md`
+
 ---
 
 # 🚀 Week 5 Recap – Kubernetes + IaC Foundations
