@@ -173,22 +173,20 @@ The repository is being gradually structured as I progress through a **phase-bas
 
 ---
 
-## 📊 Overall Progress Summary (as of Nov 21 2025)
+## 📊 Overall Progress Summary (as of Dec 3, 2025)
 
 | **Topic / Skill Area** | **Platform / Resource** | **Current Progress** | **Key Highlights & Achievements** |
-|-------------------------|-------------------------|-----------------------|-----------------------------------|
-| **Kubernetes (Theory + Hands-On)** | KodeKloud + Minikube | **100% (course)**; Hands-on continues in Week 7 | Completed full KodeKloud course. Installed Minikube and explored the Dashboard. Hands-on deployments moved to Week 7. |
-| **Linux Basics for DevOps** | KodeKloud | **100% Complete** | Completed all modules: storage, LVM, networking, services, cron, security, permissions. Certificate earned. |
-| **AWS Cloud Practitioner Essentials** | AWS Skill Builder | **~82% Complete** | Completed Module 11 (Pricing & Support) scored **90%**. Remaining: Modules 8, 12, 13. |
-| **Terraform for Beginners** | KodeKloud + Local Terraform | **~31% Complete** | Installed Terraform locally (v1.14.0). Completed provider configuration labs, variables, outputs (5 labs). Terraform hands-on moves to Week 7. |
-| **CI/CD & Automation (Intro)** | GitHub Actions | **Initial Setup Done** | Created first CI workflow (`ci.yml`). Plans to expand into automated testing and Docker integration later. |
-| **Kubernetes (Minikube Hands-On)** | Local Practice Environment | **Started – Week 7** | Completed first hands-on Kubernetes lab using Minikube. Created Pod, Deployment, and Service manifests via `--dry-run=client -o yaml` and successfully deployed an Nginx application locally. Practiced applying, verifying, exposing, accessing, and deleting Kubernetes resources. |
-| **Terraform (Local Hands-On Projects)** | Local Terraform + KodeKloud | **Active – Week 7** | Set up a structured Terraform practice project with `main.tf`, `variables.tf`, `outputs.tf`, and `terraform.tfvars`. Implemented providers (`local`, `random`), variables, outputs, and variable precedence. Successfully completed the full Terraform workflow: `init → validate → plan → apply → destroy`. |
-| **Portfolio & Documentation** | GitHub | **Ongoing** | Weekly logs maintained. Repo reorganized. Pinned projects cleaned up with improved descriptions. |
+|------------------------|-------------------------|----------------------|-----------------------------------|
+| **Kubernetes (Theory + Hands-On)** | KodeKloud + Minikube | **100% (course)**; Hands-on ongoing | Completed full KodeKloud Kubernetes course. Installed and configured Minikube. Performed local hands-on practice by creating Pod, Deployment, and Service manifests and deploying an Nginx application locally. |
+| **Linux Basics for DevOps** | KodeKloud | **100% Complete** | Completed all modules covering storage, LVM, networking, services, cron, security, and permissions. Certificate earned. |
+| **AWS Cloud Practitioner Essentials** | AWS Skill Builder | **~90% Complete** | Completed additional modules including AI/ML & Data Analytics (Module 8) with **100% quiz score**. Remaining modules to be completed as part of the ongoing roadmap. |
+| **Terraform for Beginners (Course)** | KodeKloud | **~40% Complete** | Installed Terraform locally. Covered providers, variables, outputs, Terraform workflow, state concepts, advanced commands (`validate`, `fmt`, `show`, `graph`), lifecycle rules, and mutable vs immutable infrastructure. |
+| **Terraform (Local Hands-On Projects)** | Local Terraform | **Active** | Built structured Terraform projects using `main.tf`, `variables.tf`, `outputs.tf`, and `terraform.tfvars`. Practiced provider configuration, variable precedence, outputs, and full Terraform lifecycle (`init → plan → apply → destroy`). |
+| **CI/CD & Automation (Intro)** | GitHub Actions | **Initial Setup Done** | Created first GitHub Actions CI workflow (`ci.yml`). CI/CD expansion planned in later phases. |
+| **Portfolio & Documentation** | GitHub | **Ongoing** | Repo reorganized into a scalable, phase-based structure. Weekly logs maintained. Documentation refactored to separate historical summaries from the main README. |
 
----
 
-📘 *This table provides a quick snapshot of progress across all ongoing DevOps learning domains as part of my 8-Week DevOps Foundations Practice Plan.*
+📘 This table provides a high-level snapshot of progress across ongoing DevOps learning domains as part of a **phase-based, long-term upskilling roadmap**.
 
 ---
 ### 🔄 Recent Focus (Weeks 8–9)
